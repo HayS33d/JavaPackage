@@ -1,0 +1,3 @@
+# JavaPackage
+This will remove ALL x86 Versions of Java regardless, remove their registry keys if they get "Stuck" delete the files Just in case... 
+Then install the new version of Java and verify
